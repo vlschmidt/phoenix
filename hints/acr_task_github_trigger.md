@@ -17,3 +17,5 @@ az acr task run -g $RESOURCEGROUP -r $ACR_NAME -n taskhelloworld
 ```
 
 1. Check in the registry if you can find the new image
+
+did this work?
